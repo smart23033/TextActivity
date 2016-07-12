@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TextActivity</string>
+    <string name="html_text"><![CDATA[<font color="red">Hi</font>, <h1>Android</h1>]]></string>
+    <string name="link_text_manual"><![CDATA[<b>Hello,</b> This is a <a href="http://www.google.com">link</a>.]]></string>
+</resources>
